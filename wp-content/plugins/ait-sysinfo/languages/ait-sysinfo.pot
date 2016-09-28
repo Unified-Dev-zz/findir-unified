@@ -1,0 +1,33 @@
+# Copyright (C) 2016 AitThemes.Club
+# This file is distributed under the same license as the AIT SysInfo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AIT SysInfo\n"
+"Report-Msgid-Bugs-To: https://system.ait-themes.club/support/\n"
+"POT-Creation-Date: 2016-08-11 11:30:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: AitSysInfo.php:125
+msgid "System Information"
+msgstr ""
+
+#: AitSysInfo.php:173
+msgid "Copied!"
+msgstr ""
+
+#: AitSysInfo.php:185
+msgid "Press Ctrl+C to copy"
+msgstr ""
+
+#: AitSysInfo.php:205
+msgid "View"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Generates useful system information report about your WordPress website for AIT team"
+msgstr ""

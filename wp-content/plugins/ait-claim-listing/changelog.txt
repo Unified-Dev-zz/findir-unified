@@ -1,0 +1,118 @@
+v2.16, 25.08.2016
+-----------------
+- Fixed: Fixed problem when user edits claimed item and lost the claim after save
+- Added: Condition to check maximum items in default package
+
+v2.15, 29.06.2016
+-----------------
+- Update: Updated plugin compatibility, now will automatically deactivate on non compatible themes
+
+v2.14, 03.05.2016
+-----------------
+- Fixed: Some translations on Item's edit page
+
+v2.13, 27.04.2016
+-----------------
+- Fixed: Captcha conflict with Login Widget
+
+v2.12, 12.04.2016
+-----------------
+- Update: Updated POT translation files
+
+v2.11, 24.11.2015
+-----------------
+- Updated: Database update function
+- Added: Terms and Conditions options for claim form
+
+v2.10, 18.11.2015
+-----------------
+- Fixed: Fixed typo in post update function
+
+v2.9, 10.11.2015
+----------------
+- Update: Updated pot translation files
+
+v2.8, 03.11.2015
+----------------
+- Fixed: Assign item author
+
+v2.7, 27.10.2015
+----------------
+- Fixed: Creating meta tags when item is created
+
+v2.6, 22.10.2015
+----------------
+- Added: Translations in admin backend
+
+v2.5, 13.10.2015
+----------------
+- Fixed: Fixed typo in theme option help
+
+v2.4, 22.09.2015
+----------------
+- Fixed: Fixed admin php notices
+
+v2.3, 16.09.2015
+----------------
+- Updated: Frontend form
+
+v2.2, 08.09.2015
+----------------
+- Fix: Fixed frontend error on single item page
+
+v2.1, 04.09.2015
+----------------
+- Added: Function to upgrade database from old to new structure
+- Added: Options to enable / disable each frontend notifications
+
+v2.0, 28.08.2015
+----------------
+- Updated: Plugin refactored
+- Added: CAPTCHA form validation
+- Added: Logged in claim form
+- Added: Claim aprroval process
+- Added: Mail admin notifications
+- Added: Admin notifications
+- Added: Frontend notifications
+- Update: Updated pot translation files
+
+v1.7, 07.07.2015
+----------------
+- Added: Missing textdomains
+- Update: Updated pot translation files
+
+v1.6, 01.07.2015
+----------------
+- Update: All translations are now handled by AIT Languages plugin
+
+
+v1.5, 26.5.2015
+---------------
+- Fix: Fixed error "The plugin generated 289 characters of unexpected output during activation"
+- Fix: After plugin activation "Claim Listing" element is showing up in Page builder already
+
+
+v1.4, 19.05.2015
+----------------
+- Added: Progressive preloading for claim listing element
+
+
+v1.3, 05.05.2015
+----------------
+- Added: Translations in 24 languages
+- Fixed: Frontend notices
+
+
+v1.2, 21.4.2015
+---------------
+- Tweak: normalized names of files and text domains
+
+
+v1.1, 20.3.2015
+---------------
+- Fixed: admin save options button not working
+
+
+v1.0, 12.3.2015
+--------------
+- Public release

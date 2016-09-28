@@ -1,0 +1,8 @@
+v1.0.1, 30.8.2016
+-----------------
+- Fix: Fixed PHP warning in detection of available updates
+
+
+v1.0.0, 11.8.2016
+-----------------
+- Release: Plugin released

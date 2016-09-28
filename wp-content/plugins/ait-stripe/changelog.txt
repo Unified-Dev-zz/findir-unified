@@ -1,0 +1,7 @@
+v1.1, 07.09.2016
+----------------
+- Fixed: Zero-decimal currencies
+
+v1.0, 29.09.2015
+----------------
+- Plugin release

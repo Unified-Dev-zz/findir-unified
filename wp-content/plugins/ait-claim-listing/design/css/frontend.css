@@ -1,0 +1,47 @@
+/* AIT Claim Listing Frontend Style */
+
+.claim-listing-container 	{ margin-bottom: 40px; }
+.claim-listing-container p 	{ margin-bottom: 20px; }
+
+
+.ait-claim-listing form 					{ width: 500px; }
+
+	.ait-claim-listing h3 					{ overflow: hidden; position: relative; }
+	.ait-claim-listing h3:after 			{ border-bottom: 1px solid rgba(0,0,0,0.065); content: ""; margin-left: 16px; margin-top: 17px; position: absolute; width: 100%; }
+		.ait-claim-listing .input-wrap 		{ margin: 20px 0 0; }
+		.ait-claim-listing .input-submit 	{ float: left; margin: 20px 20px 0 0; }
+			.ait-claim-listing .input-field { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; width: 100%; }
+
+			.ait-claim-listing label 		{ display: block; }
+
+			.ait-claim-listing .input-wrap.input-payment > label,
+			.ait-claim-listing .input-wrap.input-captcha > label 	{ font-weight: bold; text-transform: uppercase; }
+
+			.ait-claim-listing .sbHolder .sbSelector 				{ padding-left: 0; padding-right: 0; }
+
+			.ait-claim-listing .input-wrap.input-captcha > input 	{ width: calc(100% - 140px); }
+			.ait-claim-listing .input-captcha img 					{ float: right; min-height: 30px; vertical-align: middle; }
+
+			.ait-claim-listing .input-invalid input 				{ border-color: #d05756 !important; }
+			.ait-claim-listing .input-invalid input:focus 			{ border-color: #d4d4d4 !important; }
+
+			/* Terms and Conditions */
+
+			.ait-claim-listing .input-wrap.input-terms > label 		{ display: inline-block; vertical-align: top; }
+			.ait-claim-listing .input-wrap.input-terms > input 		{ float: left; margin: 6px 15px 6px 0px; }
+
+/* When User Is Loged & Can Claimed Item */
+#colorbox.ait-claim-listing form.user-claim-form {text-align: left}
+.ait-claim-listing form.user-claim-form 	{ text-align: center; }
+
+.ait-claim-listing form.user-claim-form .claim-form-user span { font-weight: bold; }
+.ait-claim-listing .claim-form-text { text-transform: uppercase; }
+
+
+/* AIT Claim Listing Frontend Style */
+
+/* Notice */
+
+.ait-claim-listing .claim-notices-container 					{ margin-top: 30px; }
+.ait-claim-listing .claim-notices-container .notice-loader 		{ display: block; font-size: 20px; left: 50%; margin-top: -13px; position: absolute; top: 50%; }
+.ait-claim-listing .claim-notices-container .form-error-general { display: block; font-size: 14px; font-weight: bold; line-height: 26px; left: 10%; margin-top: -13px; position: absolute; text-align: center; text-transform: uppercase; top: 50%; width: 80%; }

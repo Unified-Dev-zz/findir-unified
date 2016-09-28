@@ -1,0 +1,17 @@
+status:
+	label: Status
+	type: info
+	dataFunction: 'AitClaimListing::getClaimStatus'
+	default: "unclaimed"
+
+owner:
+	label: Owner
+	type: info
+	dataFunction: 'AitClaimListing::getClaimOwner'
+	default: "-"
+
+date:
+	label: Date
+	type: info
+	dataFunction: 'AitClaimListing::getClaimDate'
+	default: "-"

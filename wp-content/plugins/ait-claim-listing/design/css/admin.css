@@ -1,0 +1,15 @@
+/* AIT Claim Listing Admin Style */
+
+.ait-claim-status 						{ text-align: center; }
+.ait-claim-status div 					{ font-weight: bold; margin-bottom: 5px; text-transform: capitalize; }
+.ait-claim-status .button 				{ margin-bottom: 2px; }
+.ait-claim-status .button:first-of-type { margin-right: 2px; }
+.ait-claim-status .button:last-of-type 	{ margin-left: 2px; }
+
+
+/* Item Details Page */
+
+.ait-ait-item-claim-listing-tabs-panel .ait-opt-info 						{ background: #e2e2e2; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; padding: 3px; }
+.ait-ait-item-claim-listing-tabs-panel .ait-opt-container .ait-opt-wrapper 	{ background: #fff; border-right: 1px solid #cccccc; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; color: #333333; margin: 0; min-height: 24px; padding: 0 10px; vertical-align: top; }
+
+/* AIT Claim Listing Admin Style */

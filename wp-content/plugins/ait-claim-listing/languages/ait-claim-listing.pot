@@ -1,0 +1,313 @@
+# Copyright (C) 2016 AitThemes.Club
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: AIT Claim Listing\n"
+"Report-Msgid-Bugs-To: https://system.ait-themes.club/support/\n"
+"POT-Creation-Date: 2016-04-12 11:47:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ait-claim-listing.php:148 ait-claim-listing.php:163
+msgid "Claim status"
+msgstr ""
+
+#: ait-claim-listing.php:156
+msgid "Claimed"
+msgstr ""
+
+#: ait-claim-listing.php:156
+msgid "Registered"
+msgstr ""
+
+#: ait-claim-listing.php:175
+msgid "Approve"
+msgstr ""
+
+#: ait-claim-listing.php:176 ait-claim-listing.php:180
+msgid "Decline"
+msgstr ""
+
+#: ait-claim-listing.php:270
+msgctxt "ait-claim-listing"
+msgid "Claim Listing"
+msgstr ""
+
+#: ait-claim-listing.php:329
+msgid "Claim listing has been approved"
+msgstr ""
+
+#: ait-claim-listing.php:332
+msgid "Claim listing has been declined"
+msgstr ""
+
+#: ait-claim-listing.php:482
+msgid "Approve claim"
+msgstr ""
+
+#: ait-claim-listing.php:483
+msgid "Decline claim"
+msgstr ""
+
+#: ait-claim-listing.php:495
+msgid "Actions: %s | %s"
+msgstr ""
+
+#: ait-claim-listing.php:591
+msgid "unclaimed"
+msgstr ""
+
+#: ait-claim-listing.php:617
+msgid "Not registered"
+msgstr ""
+
+#: config/ait-item-claim-listing.metabox.neon
+msgid "Status"
+msgstr ""
+
+#: config/ait-item-claim-listing.metabox.neon
+msgid "Owner"
+msgstr ""
+
+#: config/ait-item-claim-listing.metabox.neon
+msgid "Date"
+msgstr ""
+
+#: config/ait-item-claim-listing.metabox.php:5
+msgid "Claim Status"
+msgstr ""
+
+#: config/ait-item-claim-listing.metabox.php:12
+msgid "Claim Owner"
+msgstr ""
+
+#: config/ait-item-claim-listing.metabox.php:19
+msgid "Claim Date"
+msgstr ""
+
+#: config/theme-options.php:6 config/theme-options.php:39
+#: config/theme-options.php:76 config/theme-options.php:133
+#: config/theme-options.php:139 templates/claim-listing.php:64
+#: templates/claim-listing.php:221
+msgid "Claim Listing"
+msgstr ""
+
+#: config/theme-options.php:9
+msgid "Enable Claim Listing"
+msgstr ""
+
+#: config/theme-options.php:12
+msgid "Enable or disable claim listing for items"
+msgstr ""
+
+#: config/theme-options.php:16
+msgid "Default Package"
+msgstr ""
+
+#: config/theme-options.php:20
+msgid "Assign new user to selected package"
+msgstr ""
+
+#: config/theme-options.php:24
+msgid "Email Subject"
+msgstr ""
+
+#: config/theme-options.php:26 config/theme-options.php:131
+msgid "Claim Listing Request"
+msgstr ""
+
+#: config/theme-options.php:27
+msgid "Subject for the email notification"
+msgstr ""
+
+#: config/theme-options.php:30
+msgid "Email Message"
+msgstr ""
+
+#: config/theme-options.php:32 config/theme-options.php:132
+msgid "User: {user} <br> Item: {item} <br><br> {actions}"
+msgstr ""
+
+#: config/theme-options.php:33
+msgid "Message for the email notification"
+msgstr ""
+
+#: config/theme-options.php:37
+msgid "Section Title"
+msgstr ""
+
+#: config/theme-options.php:40
+msgid "Title for the section shown on item detail"
+msgstr ""
+
+#: config/theme-options.php:43
+msgid "Section Description"
+msgstr ""
+
+#: config/theme-options.php:45 config/theme-options.php:134
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: config/theme-options.php:46
+msgid "Description for the section shown on item detail"
+msgstr ""
+
+#: config/theme-options.php:50
+msgid "Form Username Label"
+msgstr ""
+
+#: config/theme-options.php:52 config/theme-options.php:135
+msgid "Username"
+msgstr ""
+
+#: config/theme-options.php:53
+msgid "Label for username field"
+msgstr ""
+
+#: config/theme-options.php:56
+msgid "Form Email Label"
+msgstr ""
+
+#: config/theme-options.php:58 config/theme-options.php:136
+msgid "Email"
+msgstr ""
+
+#: config/theme-options.php:59
+msgid "Label for email field"
+msgstr ""
+
+#: config/theme-options.php:62
+msgid "Form Payment Label"
+msgstr ""
+
+#: config/theme-options.php:64 config/theme-options.php:137
+msgid "Payment"
+msgstr ""
+
+#: config/theme-options.php:65
+msgid "Label for payment field"
+msgstr ""
+
+#: config/theme-options.php:68
+msgid "Form Captcha Label"
+msgstr ""
+
+#: config/theme-options.php:70 config/theme-options.php:138
+msgid "Captcha"
+msgstr ""
+
+#: config/theme-options.php:71
+msgid "Label for captcha field"
+msgstr ""
+
+#: config/theme-options.php:74
+msgid "Form Submit Label"
+msgstr ""
+
+#: config/theme-options.php:77
+msgid "Label for submit button"
+msgstr ""
+
+#: config/theme-options.php:81
+msgid "Logged in form text"
+msgstr ""
+
+#: config/theme-options.php:83 config/theme-options.php:140
+msgid "Are you sure you want to claim the current item?"
+msgstr ""
+
+#: config/theme-options.php:84
+msgid "Text displayed in the form when user is logged in"
+msgstr ""
+
+#: config/theme-options.php:88
+msgid "Frontend notification 1"
+msgstr ""
+
+#: config/theme-options.php:91
+msgid "Display notification: Item already claimed"
+msgstr ""
+
+#: config/theme-options.php:94
+msgid "Frontend notification 2"
+msgstr ""
+
+#: config/theme-options.php:97
+msgid "Display notification: Item pending moderation from admin"
+msgstr ""
+
+#: config/theme-options.php:100
+msgid "Frontend notification 3"
+msgstr ""
+
+#: config/theme-options.php:103
+msgid "Display notification: Claim listing disabled for current role"
+msgstr ""
+
+#: config/theme-options.php:106
+msgid "Frontend notification 4"
+msgstr ""
+
+#: config/theme-options.php:109
+msgid "Display notification: Maximum package items exceeded, cannot claim item"
+msgstr ""
+
+#: config/theme-options.php:113
+msgid "Enable Terms & Conditions"
+msgstr ""
+
+#: config/theme-options.php:116
+msgid "Display Terms & Conditions input on registration form"
+msgstr ""
+
+#: config/theme-options.php:119
+msgid "Terms & Conditions label"
+msgstr ""
+
+#: config/theme-options.php:121 config/theme-options.php:146
+msgid "Accepts Terms & Conditions"
+msgstr ""
+
+#: config/theme-options.php:122
+msgid "Text for Terms & Conditions form input"
+msgstr ""
+
+#: templates/claim-listing.php:71
+msgid "Claim as: "
+msgstr ""
+
+#: templates/claim-listing.php:83 templates/claim-listing.php:306
+msgid "Server encountered an error, please try again later"
+msgstr ""
+
+#: templates/claim-listing.php:86
+msgid "Item claimed, wait for admin to permit the claim for the current item"
+msgstr ""
+
+#: templates/claim-listing.php:132
+msgid "Maximum package items exceeded, cannot claim item"
+msgstr ""
+
+#: templates/claim-listing.php:178
+msgid "Claim listing disabled for current role"
+msgstr ""
+
+#: templates/claim-listing.php:309
+msgid "Captcha failed to verify"
+msgstr ""
+
+#: templates/claim-listing.php:357
+msgid "Item pending moderation from admin"
+msgstr ""
+
+#: templates/claim-listing.php:402
+msgid "Item already claimed"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds Claim Listing functionality for ait-item custom post type"
+msgstr ""
